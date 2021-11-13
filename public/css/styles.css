@@ -1,0 +1,15 @@
+.imageanddata{
+      display: flex;
+      justify-content: space-around;
+}
+.test{
+      width: 70%;
+}
+.imagebox img{
+      width: 350px;
+      height: 350px;
+}
+.boxcontainer{
+      margin: 20px 20px 20px 20px;
+      border: 1px solid gray;
+}
